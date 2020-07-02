@@ -6,4 +6,24 @@
     <groupId>com.github.vidinoti</groupId>
     <artifactId>android-sdk</artifactId>
     <version>7.2.1</version>
+    <dependencies>
+        <dependency>
+            <groupId>com.github.barteksc</groupId>
+            <artifactId>android-pdf-viewer</artifactId>
+            <version>2.7.0</version>
+            <scope>runtime</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>com.android.support</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>com.google.ar</groupId>
+            <artifactId>core</artifactId>
+            <version>1.17.0</version>
+            <scope>runtime</scope>
+        </dependency>
+    </dependencies>
 </project>
