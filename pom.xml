@@ -6,6 +6,8 @@
     <groupId>com.github.vidinoti</groupId>
     <artifactId>android-sdk</artifactId>
     <version>7.2.1</version>
+    <packaging>aar</packaging>
+    <name>vidinoti/android-sdk</name>
     <dependencies>
         <dependency>
             <groupId>com.github.barteksc</groupId>
