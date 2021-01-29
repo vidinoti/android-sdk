@@ -1,10 +1,10 @@
 # Vidinoti Android SDK
 
-## Getting started
+## Getting started
 
 TODO
 
-## How to release a new version
+## How to release a new version
 
 1. Replace the `vdarsdk-release.aar` file
 2. Update the version number in `jitpack.yml`
