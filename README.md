@@ -2,7 +2,21 @@
 
 ## Getting started
 
-TODO
+In your project's `build.gradle` file, add the following
+
+```
+allprojects {
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
+}
+```
+
+And add the dependency in your app's `build.gradle` file:
+
+```
+implementation 'com.github.vidinoti:android-sdk:<latest-release>'
+```
 
 ## How to release a new version
 
