@@ -1,5 +1,7 @@
 # Vidinoti Android SDK
 
+[![Release](https://jitpack.io/v/vidinoti/android-sdk.svg)](https://jitpack.io/#vidinoti/android-sdk)
+
 ## Getting started
 
 In your project's `build.gradle` file, add the following
