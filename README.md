@@ -6,7 +6,7 @@
 
 In your project's `build.gradle` file, add the following
 
-```
+```gradle
 allprojects {
     repositories {
         maven { url "https://jitpack.io" }
@@ -16,7 +16,7 @@ allprojects {
 
 And add the dependency in your app's `build.gradle` file:
 
-```
+```gradle
 implementation 'com.github.vidinoti:android-sdk:<latest-release>'
 ```
 
