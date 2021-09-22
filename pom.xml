@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.vidinoti</groupId>
     <artifactId>android-sdk</artifactId>
-    <version>7.3.1</version>
+    <version>7.3.2</version>
     <packaging>aar</packaging>
     <dependencies>
         <dependency>
