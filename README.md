@@ -26,3 +26,11 @@ implementation 'com.github.vidinoti:android-sdk:<latest-release>'
 2. Update the version number in `jitpack.yml`
 3. Update the version number in `pom.xml` and any dependency if needed
 4. Commit, push and create a new release in GitHub
+
+### Create a GitHub release with GitHub CLI
+
+``` sh
+gh release create <tag> --notes "<release notes>"
+# For instance
+gh release create 7.3.3 --notes "Vidinoti SDK 7.3.3"
+```
