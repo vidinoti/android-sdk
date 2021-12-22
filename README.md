@@ -25,7 +25,8 @@ implementation 'com.github.vidinoti:android-sdk:<latest-release>'
 1. Replace the `vdarsdk-release.aar` file
 2. Update the version number in `jitpack.yml`
 3. Update the version number in `pom.xml` and any dependency if needed
-4. Commit, push and create a new release in GitHub
+4. Commit, push
+5. Create a new release in GitHub
 
 ### Create a GitHub release with GitHub CLI
 
