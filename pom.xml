@@ -5,19 +5,19 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.vidinoti</groupId>
     <artifactId>android-sdk</artifactId>
-    <version>7.5.0</version>
+    <version>7.5.0.1</version>
     <packaging>aar</packaging>
     <dependencies>
         <dependency>
             <groupId>com.github.mhiew</groupId>
             <artifactId>android-pdf-viewer</artifactId>
-            <version>3.2.0-beta.1</version>
+            <version>3.2.0-beta.3</version>
             <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>com.google.ar</groupId>
             <artifactId>core</artifactId>
-            <version>1.35.0</version>
+            <version>1.40.0</version>
             <scope>runtime</scope>
         </dependency>
     </dependencies>
