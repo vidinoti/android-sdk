@@ -17,19 +17,19 @@
         <dependency>
             <groupId>com.google.ar</groupId>
             <artifactId>core</artifactId>
-            <version>1.41.0</version>
+            <version>1.44.0</version>
             <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>androidx.webkit</groupId>
             <artifactId>webkit</artifactId>
-            <version>1.7.0</version>
+            <version>1.11.0</version>
             <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>androidx.media</groupId>
             <artifactId>media</artifactId>
-            <version>1.6.0</version>
+            <version>1.7.0</version>
             <scope>runtime</scope>
         </dependency>
     </dependencies>
